@@ -1,0 +1,13 @@
+[master (root-commit) 1b948fd] This is the commit of the test text
+ 1 file changed, 18 insertions(+)
+ create mode 100644 test.txt
+
+Username for 'https://github.com': cnr-dxn
+Password for 'https://cnr-dxn@github.com':
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 251 bytes | 251.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/cnr-dxn/3308SP21_section013_Connor_Dixon_Lab1_Submission.git
+ * [new branch]      master -> master
